@@ -60,3 +60,4 @@ let mapleader = "\<Space>"
 set fileformat=unix
 set linebreak
 set relativenumber
+set tabstop = 4
